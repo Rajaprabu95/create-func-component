@@ -1,0 +1,24 @@
+{
+  "name": "create-func-component",
+  "version": "1.0.0",
+  "description": "An NPM Package will create  functional component javascript and  css module file.",
+  "main": "./lib/createFile.js",
+  "bin": {
+    "cfc": "./bin/index.js"
+  },
+  "preferGlobal": true,
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Rajaprabu95/create-func-component.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Rajaprabu95/create-func-component/issues"
+  },
+  "homepage": "https://github.com/Rajaprabu95/create-func-component#readme"
+}
